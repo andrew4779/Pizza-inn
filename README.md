@@ -4,7 +4,7 @@
 ## Description
 This is a simple webpage with info about kennjr the developer, nothing fancy just a simple site built with HTML,CSS and JAVASCRIPT
 ## Setup/Installation Requirements
-* Clone the repo :{git clone https:}
+* Clone the repo :{git clone https://github.com/andrew4779/Pizza-inn.git}
 * No server or dependencies needed to run the code.
 ## Live link
 
