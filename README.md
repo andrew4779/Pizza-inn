@@ -2,9 +2,9 @@
 #### This is a site dedicated to documenting my coding work/journey, 11/05/2021
 #### By **Andrew**
 ## Description
-This is a simple webpage with info about kennjr the developer, nothing fancy just a simple site built with HTML,CSS and JAVASCRIPT
+This is a simple webpage built with HTML,CSS and JAVASCRIPT
 ## Setup/Installation Requirements
-* Clone the repo :{git clone https://github.com/andrew4779/Pizza-inn.git}
+* Clone the repo :{git clone https://github.com/andrew4779/Pizza-inn.git }
 * No server or dependencies needed to run the code.
 ## Live link
 
