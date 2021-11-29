@@ -7,7 +7,7 @@ This is a simple webpage built with HTML,CSS and JAVASCRIPT
 * Clone the repo :{git clone https://github.com/andrew4779/Pizza-inn.git }
 * No server or dependencies needed to run the code.
 ## Live link
-
+https://andrew4779.github.io/Pizza-inn/
 ## Known Bugs
 The navigation bar isn't functioning as expected
 ## Technologies Used
