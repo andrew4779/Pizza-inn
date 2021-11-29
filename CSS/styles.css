@@ -13,7 +13,7 @@ body{
 
 h1 {
   letter-spacing: 8px;
-  color: orange;
+  color:black;
   font-weight: bolder;
   font-family: 'Wallpoet', cursive;
   font-size: 60px;
@@ -48,7 +48,7 @@ nav .navbar{
 }
 
 .landing {
-  background-image: url("../images/pizzapacking.jpg");
+  background-image: url("https://images.pexels.com/photos/1788852/pexels-photo-1788852.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -171,7 +171,7 @@ td,th{
   color: white;
 }
 .choice h2{
-  color:orange;
+  color: whitesmoke;
   text-align: left;
 }
 #your-orders{
@@ -210,7 +210,7 @@ td,th{
   font-size: 22px;
   padding-right: 8%;
   padding-left: 5%;
-  color: #ffa500;
+  color:brown;
 }
 @media only screen and (max-width: 485px){
   .flex-xs-column {
