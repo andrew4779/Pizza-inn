@@ -48,13 +48,13 @@ $(document).ready(function(){
       case "0":
         crust_price = 0;
       break;
-      case "Crispy":
+      case "Wrapping It Up.":
         crust_price = 300;
       break;
-      case "Stuffed":
+      case "Cheese Crust Pizza.":
         crust_price = 150;
       break;
-      case "Gluten-free":
+      case "Thin Crust.":
         crust_price = 200;
       break;
       default:
