@@ -104,6 +104,7 @@ $(document).ready(function(){
         case "large":
            price = 1500;
            console.log(price);
+           alert(price)
          break;
          case "medium":
            price = 950;
@@ -119,13 +120,13 @@ $(document).ready(function(){
           case "0":
             crust_price = 0;
           break;
-          case "Crispy":
+          case "Wrapping It Up":
             crust_price = 300;
           break;
-          case "Stuffed":
+          case "Cheese Crust Pizza":
             crust_price = 150;
           break;
-          case "Gluten-free":
+          case "Thin crust":
             crust_price = 200;
           break;
           default:
