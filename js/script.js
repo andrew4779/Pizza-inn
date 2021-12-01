@@ -102,16 +102,16 @@ $(document).ready(function(){
           price =0;
         break;
         case "large":
-           price = 1500;
+           price = 1200;
            console.log(price);
            alert(price)
          break;
          case "medium":
-           price = 950;
+           price = 1150;
            console.log("The price is "+price);
          break;
          case "small":
-           price = 600;
+           price = 950;
            console.log(price);
          default:
            console.log("error"); 
@@ -121,13 +121,13 @@ $(document).ready(function(){
             crust_price = 0;
           break;
           case "Wrapping It Up":
-            crust_price = 300;
+            crust_price = 699;
           break;
           case "Cheese Crust Pizza":
-            crust_price = 150;
+            crust_price = 750;
           break;
           case "Thin crust":
-            crust_price = 200;
+            crust_price = 699;
           break;
           default:
             console.log("No price"); 
